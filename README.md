@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
   
- ![Michau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michau94&show_icons=true)
+<!-- ![Michau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michau94&show_icons=true) -->
 
 
   
